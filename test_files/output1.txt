@@ -1,0 +1,90 @@
+Day 2: Visitor 3 wants to take book 1
+Day 2: Visitor 4 wants to take book 1
+Day 2: Visitor 0 wants to take book 1
+Day 2: Visitor 2 wants to take book 1
+Day 2: Visitor 1 wants to take book 1
+Day 2: Visitor 3 takes book number 1 for 10 days
+Day 2: Visitor 3 wants to take book 3
+Day 2: Visitor 4 takes book number 1 for 10 days
+Day 2: Visitor 4 wants to take book 3
+Day 2: Visitor 0 cant take book 1 and have to wait
+Day 2: Visitor 0 wants to take book 3
+Day 2: Visitor 2 cant take book 1 and have to wait
+Day 2: Visitor 2 wants to take book 3
+Day 2: Visitor 1 cant take book 1 and have to wait
+Day 2: Visitor 1 wants to take book 3
+Day 2: Visitor 3 takes book number 3 for 8 days
+Day 2: Visitor 4 cant take book 3 and have to wait
+Day 2: Visitor 0 cant take book 3 and have to wait
+Day 2: Visitor 2 cant take book 3 and have to wait
+Day 2: Visitor 1 cant take book 3 and have to wait
+Day 10: Visitor 3 returns book number 3
+Day 11: Visitor 1 finally takes book number 3 for 2 days
+Day 12: Visitor 4 returns book number 1
+Day 12: Visitor 3 returns book number 1
+Day 13: Visitor 1 returns book number 3
+Day 13: Visitor 0 finally takes book number 1 for 4 days
+Day 13: Visitor 0 finally takes book number 3 for 14 days
+Day 13: Visitor 1 finally takes book number 1 for 14 days
+Day 17: Visitor 3 wants to take book 1
+Day 17: Visitor 0 returns book number 1
+Day 17: Visitor 1 wants to take book 2
+Day 17: Visitor 3 cant take book 1 and have to wait
+Day 17: Visitor 0 wants to take book 1
+Day 17: Visitor 3 wants to take book 2
+Day 17: Visitor 1 takes book number 2 for 8 days
+Day 17: Visitor 0 takes book number 1 for 8 days
+Day 17: Visitor 0 wants to take book 2
+Day 17: Visitor 3 cant take book 2 and have to wait
+Day 17: Visitor 0 cant take book 2 and have to wait
+Day 18: Visitor 3 wants to take book 0
+Day 18: Visitor 4 wants to take book 1
+Day 18: Visitor 3 takes book number 0 for 10 days
+Day 18: Visitor 4 cant take book 1 and have to wait
+Day 18: Visitor 4 wants to take book 2
+Day 18: Visitor 4 cant take book 2 and have to wait
+Day 19: Visitor 4 wants to take book 0
+Day 19: Visitor 2 wants to take book 1
+Day 19: Visitor 4 takes book number 0 for 10 days
+Day 19: Visitor 2 wants to take book 2
+Day 19: Visitor 2 cant take book 2 and have to wait
+Day 20: Visitor 2 wants to take book 0
+Day 20: Visitor 2 takes book number 0 for 10 days
+Day 23: Visitor 3 wants to take book 1
+Day 23: Visitor 3 wants to take book 3
+Day 23: Visitor 3 cant take book 3 and have to wait
+Day 24: Visitor 4 wants to take book 1
+Day 24: Visitor 4 wants to take book 3
+Day 25: Visitor 2 wants to take book 1
+Day 25: Visitor 1 returns book number 2
+Day 25: Visitor 0 returns book number 1
+Day 25: Visitor 3 wants to take book 2
+Day 25: Visitor 2 wants to take book 3
+Day 25: Visitor 1 wants to take book 3
+Day 25: Visitor 0 finally takes book number 2 for 10 days
+Day 25: Visitor 3 wants to take book 3
+Day 25: Visitor 1 cant take book 3 and have to wait
+Day 26: Visitor 3 finally takes book number 1 for 10 days
+Day 26: Visitor 4 wants to take book 2
+Day 26: Visitor 4 wants to take book 3
+Day 27: Visitor 1 returns book number 1
+Day 27: Visitor 2 wants to take book 2
+Day 27: Visitor 0 returns book number 3
+Day 27: Visitor 1 wants to take book 2
+Day 27: Visitor 2 wants to take book 3
+Day 27: Visitor 1 cant take book 2 and have to wait
+Day 27: Visitor 1 wants to take book 3
+Day 27: Visitor 2 takes book number 3 for 10 days
+Day 28: Visitor 1 wants to take book 0
+Day 28: Visitor 2 finally takes book number 1 for 14 days
+Day 28: Visitor 3 returns book number 0
+Day 28: Visitor 0 wants to take book 3
+Day 28: Visitor 4 wants to take book 2
+Day 28: Visitor 1 cant take book 0 and have to wait
+Day 28: Visitor 0 cant take book 3 and have to wait
+Day 29: Visitor 4 returns book number 0
+Day 29: Visitor 0 wants to take book 0
+Day 29: Visitor 1 finally takes book number 0 for 4 days
+Day 29: Visitor 3 wants to take book 2
+Day 29: Visitor 0 takes book number 0 for 4 days
+Day 30: The end of the month
