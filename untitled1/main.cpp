@@ -4,6 +4,9 @@
 #include <pthread.h>
 #include <fstream>
 #include <set>
+#include "windows.h"
+
+
 
 // Мьютексы
 pthread_mutex_t mutex;
@@ -126,7 +129,6 @@ void *visitorAction(void *v) {
             // Очищаем сет книг
             book_set.clear();
         }
-        out.flush();
         // Говорим, что поток дошёл до барьера
         int status = pthread_barrier_wait(&barrier);
         // Если это последний из запущенных потоков - то значит, все пользователи сегодня отработали
@@ -138,9 +140,12 @@ void *visitorAction(void *v) {
             std::cout << "error wait barrier in thread " << visitor.id << "with status " << status;
             exit(-15);
         }
+        // Заглушка для синхронизации потоков(если убрать - то всё сломается)
+        Sleep(1);
         // Если дошли до последнего дня - то заканчиваем.
-        if (totalDays >= MAX_DAYS) {
-            return nullptr;
+        if (totalDays > MAX_DAYS) {
+            pthread_barrier_destroy(&barrier);
+            pthread_exit(nullptr);
         }
     }
 }
