@@ -1,0 +1,662 @@
+seed: 100
+
+DAY 2: Visitor 8 wants to take book 15
+DAY 2: Visitor 8 takes book number 15 for 10 days
+DAY 2: Visitor 0 wants to take book 15
+DAY 2: Visitor 0 takes book number 15 for 10 days
+DAY 2: Visitor 0 wants to take book 32
+DAY 2: Visitor 5 wants to take book 15
+DAY 2: Visitor 3 wants to take book 15
+DAY 2: Visitor 2 wants to take book 15
+DAY 2: Visitor 11 wants to take book 45
+DAY 2: Visitor 10 wants to take book 45
+DAY 2: Visitor 9 wants to take book 45
+DAY 2: Visitor 1 wants to take book 15
+DAY 2: Visitor 7 wants to take book 15
+DAY 2: Visitor 12 wants to take book 45
+DAY 2: Visitor 13 wants to take book 45
+DAY 2: Visitor 8 wants to take book 32
+DAY 2: Visitor 4 wants to take book 15
+DAY 2: Visitor 6 wants to take book 15
+DAY 2: Visitor 0 takes book number 32 for 8 days
+DAY 2: Visitor 5 takes book number 15 for 10 days
+DAY 2: Visitor 5 wants to take book 32
+DAY 2: Visitor 3 takes book number 15 for 10 days
+DAY 2: Visitor 3 wants to take book 32
+DAY 2: Visitor 2 takes book number 15 for 10 days
+DAY 2: Visitor 2 wants to take book 32
+DAY 2: Visitor 11 takes book number 45 for 3 days
+DAY 2: Visitor 11 wants to take book 59
+DAY 2: Visitor 10 takes book number 45 for 3 days
+DAY 2: Visitor 10 wants to take book 59
+DAY 2: Visitor 9 takes book number 45 for 3 days
+DAY 2: Visitor 9 wants to take book 59
+DAY 2: Visitor 1 takes book number 15 for 10 days
+DAY 2: Visitor 1 wants to take book 32
+DAY 2: Visitor 7 takes book number 15 for 10 days
+DAY 2: Visitor 7 wants to take book 32
+DAY 2: Visitor 12 takes book number 45 for 3 days
+DAY 2: Visitor 12 wants to take book 59
+DAY 2: Visitor 13 cant take book 45 and have to wait
+DAY 2: Visitor 13 wants to take book 59
+DAY 2: Visitor 8 takes book number 32 for 8 days
+DAY 2: Visitor 4 takes book number 15 for 10 days
+DAY 2: Visitor 4 wants to take book 32
+DAY 2: Visitor 6 cant take book 15 and have to wait
+DAY 2: Visitor 6 wants to take book 32
+DAY 2: Visitor 5 takes book number 32 for 8 days
+DAY 2: Visitor 3 takes book number 32 for 8 days
+DAY 2: Visitor 2 takes book number 32 for 8 days
+DAY 2: Visitor 11 takes book number 59 for 13 days
+DAY 2: Visitor 10 takes book number 59 for 13 days
+DAY 2: Visitor 9 takes book number 59 for 13 days
+DAY 2: Visitor 1 takes book number 32 for 8 days
+DAY 2: Visitor 7 takes book number 32 for 8 days
+DAY 2: Visitor 12 takes book number 59 for 13 days
+DAY 2: Visitor 13 takes book number 59 for 3 days
+DAY 2: Visitor 4 takes book number 32 for 8 days
+DAY 2: Visitor 6 takes book number 32 for 10 days
+DAY 5: Visitor 11 returns book number 45
+DAY 5: Visitor 10 returns book number 45
+DAY 5: Visitor 13 returns book number 59
+DAY 5: Visitor 12 returns book number 45
+DAY 5: Visitor 9 returns book number 45
+DAY 5: Visitor 13 finally takes book number 45 for 13 days
+DAY 9: Visitor 10 wants to take book 5
+DAY 9: Visitor 12 wants to take book 5
+DAY 9: Visitor 9 wants to take book 5
+DAY 9: Visitor 13 wants to take book 5
+DAY 9: Visitor 11 wants to take book 5
+DAY 9: Visitor 10 takes book number 5 for 1 days
+DAY 9: Visitor 10 wants to take book 36
+DAY 9: Visitor 12 takes book number 5 for 1 days
+DAY 9: Visitor 12 wants to take book 36
+DAY 9: Visitor 9 takes book number 5 for 1 days
+DAY 9: Visitor 9 wants to take book 36
+DAY 9: Visitor 13 takes book number 5 for 1 days
+DAY 9: Visitor 13 wants to take book 36
+DAY 9: Visitor 11 takes book number 5 for 1 days
+DAY 9: Visitor 11 wants to take book 36
+DAY 9: Visitor 10 takes book number 36 for 12 days
+DAY 9: Visitor 12 takes book number 36 for 12 days
+DAY 9: Visitor 9 takes book number 36 for 12 days
+DAY 9: Visitor 13 takes book number 36 for 12 days
+DAY 9: Visitor 11 takes book number 36 for 12 days
+DAY 10: Visitor 9 returns book number 5
+DAY 10: Visitor 13 returns book number 5
+DAY 10: Visitor 12 returns book number 5
+DAY 10: Visitor 10 returns book number 5
+DAY 10: Visitor 0 returns book number 32
+DAY 10: Visitor 11 returns book number 5
+DAY 10: Visitor 5 returns book number 32
+DAY 10: Visitor 2 returns book number 32
+DAY 10: Visitor 4 returns book number 32
+DAY 10: Visitor 8 returns book number 32
+DAY 10: Visitor 1 returns book number 32
+DAY 10: Visitor 3 returns book number 32
+DAY 10: Visitor 7 returns book number 32
+DAY 11: Visitor 9 wants to take book 2
+DAY 11: Visitor 10 wants to take book 2
+DAY 11: Visitor 13 wants to take book 2
+DAY 11: Visitor 12 wants to take book 2
+DAY 11: Visitor 11 wants to take book 2
+DAY 11: Visitor 9 takes book number 2 for 14 days
+DAY 11: Visitor 10 takes book number 2 for 14 days
+DAY 11: Visitor 13 takes book number 2 for 14 days
+DAY 11: Visitor 12 takes book number 2 for 14 days
+DAY 11: Visitor 11 takes book number 2 for 14 days
+DAY 12: Visitor 6 returns book number 32
+DAY 12: Visitor 1 returns book number 15
+DAY 12: Visitor 0 returns book number 15
+DAY 12: Visitor 5 returns book number 15
+DAY 12: Visitor 3 returns book number 15
+DAY 12: Visitor 4 returns book number 15
+DAY 12: Visitor 2 returns book number 15
+DAY 12: Visitor 8 returns book number 15
+DAY 12: Visitor 7 returns book number 15
+DAY 13: Visitor 6 finally takes book number 15 for 14 days
+DAY 15: Visitor 9 returns book number 59
+DAY 15: Visitor 11 returns book number 59
+DAY 15: Visitor 12 returns book number 59
+DAY 15: Visitor 10 returns book number 59
+DAY 17: Visitor 1 wants to take book 36
+DAY 17: Visitor 12 wants to take book 16
+DAY 17: Visitor 0 wants to take book 36
+DAY 17: Visitor 8 wants to take book 36
+DAY 17: Visitor 10 wants to take book 16
+DAY 17: Visitor 5 wants to take book 36
+DAY 17: Visitor 4 wants to take book 36
+DAY 17: Visitor 6 wants to take book 36
+DAY 17: Visitor 7 wants to take book 36
+DAY 17: Visitor 9 wants to take book 16
+DAY 17: Visitor 13 wants to take book 16
+DAY 17: Visitor 11 wants to take book 16
+DAY 17: Visitor 2 wants to take book 36
+DAY 17: Visitor 3 wants to take book 36
+DAY 17: Visitor 1 takes book number 36 for 8 days
+DAY 17: Visitor 1 wants to take book 62
+DAY 17: Visitor 12 takes book number 16 for 8 days
+DAY 17: Visitor 12 wants to take book 33
+DAY 17: Visitor 0 takes book number 36 for 8 days
+DAY 17: Visitor 0 wants to take book 62
+DAY 17: Visitor 8 takes book number 36 for 8 days
+DAY 17: Visitor 8 wants to take book 62
+DAY 17: Visitor 10 takes book number 16 for 8 days
+DAY 17: Visitor 10 wants to take book 33
+DAY 17: Visitor 5 takes book number 36 for 8 days
+DAY 17: Visitor 5 wants to take book 62
+DAY 17: Visitor 4 takes book number 36 for 8 days
+DAY 17: Visitor 4 wants to take book 62
+DAY 17: Visitor 6 takes book number 36 for 8 days
+DAY 17: Visitor 6 wants to take book 62
+DAY 17: Visitor 7 takes book number 36 for 8 days
+DAY 17: Visitor 7 wants to take book 62
+DAY 17: Visitor 9 takes book number 16 for 8 days
+DAY 17: Visitor 9 wants to take book 33
+DAY 17: Visitor 13 takes book number 16 for 8 days
+DAY 17: Visitor 13 wants to take book 33
+DAY 17: Visitor 11 takes book number 16 for 8 days
+DAY 17: Visitor 11 wants to take book 33
+DAY 17: Visitor 2 takes book number 36 for 8 days
+DAY 17: Visitor 2 wants to take book 62
+DAY 17: Visitor 3 takes book number 36 for 8 days
+DAY 17: Visitor 3 wants to take book 62
+DAY 17: Visitor 1 takes book number 62 for 14 days
+DAY 17: Visitor 12 takes book number 33 for 5 days
+DAY 17: Visitor 0 takes book number 62 for 14 days
+DAY 17: Visitor 8 takes book number 62 for 14 days
+DAY 17: Visitor 10 takes book number 33 for 5 days
+DAY 17: Visitor 5 takes book number 62 for 14 days
+DAY 17: Visitor 4 takes book number 62 for 14 days
+DAY 17: Visitor 6 takes book number 62 for 14 days
+DAY 17: Visitor 7 takes book number 62 for 14 days
+DAY 17: Visitor 9 takes book number 33 for 5 days
+DAY 17: Visitor 13 takes book number 33 for 5 days
+DAY 17: Visitor 11 takes book number 33 for 5 days
+DAY 17: Visitor 2 takes book number 62 for 14 days
+DAY 17: Visitor 3 takes book number 62 for 14 days
+DAY 18: Visitor 13 returns book number 45
+DAY 18: Visitor 9 wants to take book 5
+DAY 18: Visitor 10 wants to take book 5
+DAY 18: Visitor 11 wants to take book 5
+DAY 18: Visitor 12 wants to take book 5
+DAY 18: Visitor 13 wants to take book 5
+DAY 18: Visitor 9 takes book number 5 for 4 days
+DAY 18: Visitor 9 wants to take book 14
+DAY 18: Visitor 10 takes book number 5 for 4 days
+DAY 18: Visitor 10 wants to take book 14
+DAY 18: Visitor 11 takes book number 5 for 4 days
+DAY 18: Visitor 11 wants to take book 14
+DAY 18: Visitor 12 takes book number 5 for 4 days
+DAY 18: Visitor 12 wants to take book 14
+DAY 18: Visitor 13 takes book number 5 for 4 days
+DAY 18: Visitor 13 wants to take book 14
+DAY 18: Visitor 9 takes book number 14 for 12 days
+DAY 18: Visitor 10 takes book number 14 for 12 days
+DAY 18: Visitor 11 takes book number 14 for 12 days
+DAY 18: Visitor 12 takes book number 14 for 12 days
+DAY 18: Visitor 13 takes book number 14 for 12 days
+DAY 21: Visitor 13 returns book number 36
+DAY 21: Visitor 12 returns book number 36
+DAY 21: Visitor 10 returns book number 36
+DAY 21: Visitor 11 returns book number 36
+DAY 21: Visitor 9 returns book number 36
+DAY 22: Visitor 9 returns book number 5
+DAY 22: Visitor 9 returns book number 33
+DAY 22: Visitor 13 returns book number 5
+DAY 22: Visitor 13 returns book number 33
+DAY 22: Visitor 10 returns book number 5
+DAY 22: Visitor 10 returns book number 33
+DAY 22: Visitor 12 returns book number 5
+DAY 22: Visitor 12 returns book number 33
+DAY 22: Visitor 11 returns book number 5
+DAY 22: Visitor 11 returns book number 33
+DAY 24: Visitor 3 wants to take book 7
+DAY 24: Visitor 9 wants to take book 19
+DAY 24: Visitor 6 wants to take book 7
+DAY 24: Visitor 2 wants to take book 7
+DAY 24: Visitor 10 wants to take book 19
+DAY 24: Visitor 0 wants to take book 7
+DAY 24: Visitor 5 wants to take book 7
+DAY 24: Visitor 7 wants to take book 7
+DAY 24: Visitor 13 wants to take book 19
+DAY 24: Visitor 1 wants to take book 7
+DAY 24: Visitor 8 wants to take book 7
+DAY 24: Visitor 12 wants to take book 19
+DAY 24: Visitor 11 wants to take book 19
+DAY 24: Visitor 4 wants to take book 7
+DAY 24: Visitor 3 takes book number 7 for 11 days
+DAY 24: Visitor 3 wants to take book 16
+DAY 24: Visitor 9 takes book number 19 for 1 days
+DAY 24: Visitor 9 wants to take book 43
+DAY 24: Visitor 6 takes book number 7 for 11 days
+DAY 24: Visitor 6 wants to take book 16
+DAY 24: Visitor 2 takes book number 7 for 11 days
+DAY 24: Visitor 2 wants to take book 16
+DAY 24: Visitor 10 takes book number 19 for 1 days
+DAY 24: Visitor 10 wants to take book 43
+DAY 24: Visitor 0 takes book number 7 for 11 days
+DAY 24: Visitor 0 wants to take book 16
+DAY 24: Visitor 5 takes book number 7 for 11 days
+DAY 24: Visitor 5 wants to take book 16
+DAY 24: Visitor 7 takes book number 7 for 11 days
+DAY 24: Visitor 7 wants to take book 16
+DAY 24: Visitor 13 takes book number 19 for 1 days
+DAY 24: Visitor 13 wants to take book 43
+DAY 24: Visitor 1 takes book number 7 for 11 days
+DAY 24: Visitor 1 wants to take book 16
+DAY 24: Visitor 8 takes book number 7 for 11 days
+DAY 24: Visitor 8 wants to take book 16
+DAY 24: Visitor 12 takes book number 19 for 1 days
+DAY 24: Visitor 12 wants to take book 43
+DAY 24: Visitor 11 takes book number 19 for 1 days
+DAY 24: Visitor 11 wants to take book 43
+DAY 24: Visitor 4 takes book number 7 for 11 days
+DAY 24: Visitor 4 wants to take book 16
+DAY 24: Visitor 3 takes book number 16 for 14 days
+DAY 24: Visitor 3 wants to take book 47
+DAY 24: Visitor 9 takes book number 43 for 12 days
+DAY 24: Visitor 6 takes book number 16 for 14 days
+DAY 24: Visitor 6 wants to take book 47
+DAY 24: Visitor 2 takes book number 16 for 14 days
+DAY 24: Visitor 2 wants to take book 47
+DAY 24: Visitor 10 takes book number 43 for 12 days
+DAY 24: Visitor 0 takes book number 16 for 14 days
+DAY 24: Visitor 0 wants to take book 47
+DAY 24: Visitor 5 takes book number 16 for 14 days
+DAY 24: Visitor 5 wants to take book 47
+DAY 24: Visitor 7 takes book number 16 for 14 days
+DAY 24: Visitor 7 wants to take book 47
+DAY 24: Visitor 13 takes book number 43 for 12 days
+DAY 24: Visitor 1 takes book number 16 for 14 days
+DAY 24: Visitor 1 wants to take book 47
+DAY 24: Visitor 8 takes book number 16 for 14 days
+DAY 24: Visitor 8 wants to take book 47
+DAY 24: Visitor 12 takes book number 43 for 12 days
+DAY 24: Visitor 11 takes book number 43 for 12 days
+DAY 24: Visitor 4 takes book number 16 for 14 days
+DAY 24: Visitor 4 wants to take book 47
+DAY 24: Visitor 3 takes book number 47 for 8 days
+DAY 24: Visitor 6 takes book number 47 for 8 days
+DAY 24: Visitor 2 takes book number 47 for 8 days
+DAY 24: Visitor 0 takes book number 47 for 8 days
+DAY 24: Visitor 5 takes book number 47 for 8 days
+DAY 24: Visitor 7 takes book number 47 for 8 days
+DAY 24: Visitor 1 takes book number 47 for 8 days
+DAY 24: Visitor 8 takes book number 47 for 8 days
+DAY 24: Visitor 4 takes book number 47 for 8 days
+DAY 25: Visitor 8 returns book number 36
+DAY 25: Visitor 0 returns book number 36
+DAY 25: Visitor 5 returns book number 36
+DAY 25: Visitor 12 returns book number 2
+DAY 25: Visitor 4 returns book number 36
+DAY 25: Visitor 13 returns book number 2
+DAY 25: Visitor 13 returns book number 16
+DAY 25: Visitor 13 returns book number 19
+DAY 25: Visitor 3 returns book number 36
+DAY 25: Visitor 11 returns book number 2
+DAY 25: Visitor 10 returns book number 2
+DAY 25: Visitor 6 returns book number 36
+DAY 25: Visitor 7 returns book number 36
+DAY 25: Visitor 9 returns book number 2
+DAY 25: Visitor 12 returns book number 16
+DAY 25: Visitor 12 returns book number 19
+DAY 25: Visitor 2 returns book number 36
+DAY 25: Visitor 11 returns book number 16
+DAY 25: Visitor 10 returns book number 16
+DAY 25: Visitor 10 returns book number 19
+DAY 25: Visitor 1 returns book number 36
+DAY 25: Visitor 11 returns book number 19
+DAY 25: Visitor 9 returns book number 16
+DAY 25: Visitor 9 returns book number 19
+DAY 26: Visitor 1 wants to take book 44
+DAY 26: Visitor 9 wants to take book 34
+DAY 26: Visitor 0 wants to take book 44
+DAY 26: Visitor 11 wants to take book 34
+DAY 26: Visitor 10 wants to take book 34
+DAY 26: Visitor 4 wants to take book 44
+DAY 26: Visitor 8 wants to take book 44
+DAY 26: Visitor 5 wants to take book 44
+DAY 26: Visitor 7 wants to take book 44
+DAY 26: Visitor 12 wants to take book 34
+DAY 26: Visitor 6 wants to take book 44
+DAY 26: Visitor 3 wants to take book 44
+DAY 26: Visitor 13 wants to take book 34
+DAY 26: Visitor 2 wants to take book 44
+DAY 26: Visitor 1 takes book number 44 for 5 days
+DAY 26: Visitor 9 takes book number 34 for 11 days
+DAY 26: Visitor 9 wants to take book 56
+DAY 26: Visitor 0 takes book number 44 for 5 days
+DAY 26: Visitor 11 takes book number 34 for 11 days
+DAY 26: Visitor 11 wants to take book 56
+DAY 26: Visitor 10 takes book number 34 for 11 days
+DAY 26: Visitor 10 wants to take book 56
+DAY 26: Visitor 4 takes book number 44 for 5 days
+DAY 26: Visitor 8 takes book number 44 for 5 days
+DAY 26: Visitor 5 takes book number 44 for 5 days
+DAY 26: Visitor 7 takes book number 44 for 5 days
+DAY 26: Visitor 12 cant take book 34 and have to wait
+DAY 26: Visitor 12 wants to take book 56
+DAY 26: Visitor 6 takes book number 44 for 5 days
+DAY 26: Visitor 3 takes book number 44 for 5 days
+DAY 26: Visitor 13 cant take book 34 and have to wait
+DAY 26: Visitor 13 wants to take book 56
+DAY 26: Visitor 2 takes book number 44 for 5 days
+DAY 26: Visitor 9 takes book number 56 for 12 days
+DAY 26: Visitor 9 wants to take book 63
+DAY 26: Visitor 11 takes book number 56 for 12 days
+DAY 26: Visitor 11 wants to take book 63
+DAY 26: Visitor 10 takes book number 56 for 12 days
+DAY 26: Visitor 10 wants to take book 63
+DAY 26: Visitor 12 takes book number 56 for 11 days
+DAY 26: Visitor 12 wants to take book 63
+DAY 26: Visitor 13 takes book number 56 for 11 days
+DAY 26: Visitor 13 wants to take book 63
+DAY 26: Visitor 9 takes book number 63 for 1 days
+DAY 26: Visitor 11 takes book number 63 for 1 days
+DAY 26: Visitor 10 takes book number 63 for 1 days
+DAY 26: Visitor 12 takes book number 63 for 12 days
+DAY 26: Visitor 13 takes book number 63 for 12 days
+DAY 27: Visitor 10 returns book number 63
+DAY 27: Visitor 9 returns book number 63
+DAY 27: Visitor 4 wants to take book 36
+DAY 27: Visitor 4 takes book number 36 for 14 days
+DAY 27: Visitor 1 wants to take book 36
+DAY 27: Visitor 3 wants to take book 36
+DAY 27: Visitor 6 returns book number 15
+DAY 27: Visitor 7 wants to take book 36
+DAY 27: Visitor 2 wants to take book 36
+DAY 27: Visitor 0 wants to take book 36
+DAY 27: Visitor 5 wants to take book 36
+DAY 27: Visitor 8 wants to take book 36
+DAY 27: Visitor 11 returns book number 63
+DAY 27: Visitor 1 takes book number 36 for 14 days
+DAY 27: Visitor 6 wants to take book 36
+DAY 27: Visitor 3 takes book number 36 for 14 days
+DAY 27: Visitor 7 takes book number 36 for 14 days
+DAY 27: Visitor 2 takes book number 36 for 14 days
+DAY 27: Visitor 0 takes book number 36 for 14 days
+DAY 27: Visitor 5 takes book number 36 for 14 days
+DAY 27: Visitor 8 takes book number 36 for 14 days
+DAY 27: Visitor 6 takes book number 36 for 14 days
+DAY 29: Visitor 0 wants to take book 13
+DAY 29: Visitor 1 wants to take book 13
+DAY 29: Visitor 7 wants to take book 13
+DAY 29: Visitor 6 wants to take book 13
+DAY 29: Visitor 5 wants to take book 13
+DAY 29: Visitor 4 wants to take book 13
+DAY 29: Visitor 3 wants to take book 13
+DAY 29: Visitor 2 wants to take book 13
+DAY 29: Visitor 8 wants to take book 13
+DAY 29: Visitor 0 takes book number 13 for 9 days
+DAY 29: Visitor 0 wants to take book 14
+DAY 29: Visitor 1 takes book number 13 for 9 days
+DAY 29: Visitor 1 wants to take book 14
+DAY 29: Visitor 7 takes book number 13 for 9 days
+DAY 29: Visitor 7 wants to take book 14
+DAY 29: Visitor 6 cant take book 13 and have to wait
+DAY 29: Visitor 6 wants to take book 14
+DAY 29: Visitor 5 cant take book 13 and have to wait
+DAY 29: Visitor 5 wants to take book 14
+DAY 29: Visitor 4 cant take book 13 and have to wait
+DAY 29: Visitor 4 wants to take book 14
+DAY 29: Visitor 3 cant take book 13 and have to wait
+DAY 29: Visitor 3 wants to take book 14
+DAY 29: Visitor 2 cant take book 13 and have to wait
+DAY 29: Visitor 2 wants to take book 14
+DAY 29: Visitor 8 cant take book 13 and have to wait
+DAY 29: Visitor 8 wants to take book 14
+DAY 29: Visitor 0 takes book number 14 for 8 days
+DAY 29: Visitor 1 takes book number 14 for 8 days
+DAY 29: Visitor 7 takes book number 14 for 8 days
+DAY 29: Visitor 6 takes book number 14 for 9 days
+DAY 29: Visitor 5 takes book number 14 for 9 days
+DAY 29: Visitor 4 takes book number 14 for 9 days
+DAY 29: Visitor 3 takes book number 14 for 9 days
+DAY 29: Visitor 2 takes book number 14 for 9 days
+DAY 29: Visitor 8 takes book number 14 for 9 days
+DAY 30: Visitor 4 wants to take book 31
+DAY 30: Visitor 3 wants to take book 31
+DAY 30: Visitor 2 wants to take book 31
+DAY 30: Visitor 4 takes book number 31 for 7 days
+DAY 30: Visitor 3 takes book number 31 for 7 days
+DAY 30: Visitor 2 cant take book 31 and have to wait
+
+seed: 217
+
+DAY 2: Visitor 8 wants to take book 1
+DAY 2: Visitor 10 wants to take book 1
+DAY 2: Visitor 9 wants to take book 1
+DAY 2: Visitor 7 wants to take book 1
+DAY 2: Visitor 2 wants to take book 1
+DAY 2: Visitor 5 wants to take book 1
+DAY 2: Visitor 4 wants to take book 1
+DAY 2: Visitor 1 wants to take book 1
+DAY 2: Visitor 3 wants to take book 1
+DAY 2: Visitor 6 wants to take book 1
+DAY 2: Visitor 11 wants to take book 1
+DAY 2: Visitor 0 wants to take book 1
+DAY 2: Visitor 8 takes book number 1 for 10 days
+DAY 2: Visitor 8 wants to take book 7
+DAY 2: Visitor 10 takes book number 1 for 10 days
+DAY 2: Visitor 10 wants to take book 7
+DAY 2: Visitor 9 takes book number 1 for 10 days
+DAY 2: Visitor 9 wants to take book 7
+DAY 2: Visitor 7 takes book number 1 for 10 days
+DAY 2: Visitor 7 wants to take book 7
+DAY 2: Visitor 2 takes book number 1 for 10 days
+DAY 2: Visitor 2 wants to take book 7
+DAY 2: Visitor 5 takes book number 1 for 10 days
+DAY 2: Visitor 5 wants to take book 7
+DAY 2: Visitor 4 takes book number 1 for 10 days
+DAY 2: Visitor 4 wants to take book 7
+DAY 2: Visitor 1 takes book number 1 for 10 days
+DAY 2: Visitor 1 wants to take book 7
+DAY 2: Visitor 3 takes book number 1 for 10 days
+DAY 2: Visitor 3 wants to take book 7
+DAY 2: Visitor 6 takes book number 1 for 10 days
+DAY 2: Visitor 6 wants to take book 7
+DAY 2: Visitor 11 takes book number 1 for 10 days
+DAY 2: Visitor 11 wants to take book 7
+DAY 2: Visitor 0 takes book number 1 for 10 days
+DAY 2: Visitor 0 wants to take book 7
+DAY 2: Visitor 8 takes book number 7 for 8 days
+DAY 2: Visitor 10 takes book number 7 for 8 days
+DAY 2: Visitor 9 cant take book 7 and have to wait
+DAY 2: Visitor 7 cant take book 7 and have to wait
+DAY 2: Visitor 2 cant take book 7 and have to wait
+DAY 2: Visitor 5 cant take book 7 and have to wait
+DAY 2: Visitor 4 cant take book 7 and have to wait
+DAY 2: Visitor 1 cant take book 7 and have to wait
+DAY 2: Visitor 3 cant take book 7 and have to wait
+DAY 2: Visitor 6 cant take book 7 and have to wait
+DAY 2: Visitor 11 cant take book 7 and have to wait
+DAY 2: Visitor 0 cant take book 7 and have to wait
+DAY 10: Visitor 8 returns book number 7
+DAY 10: Visitor 10 returns book number 7
+DAY 11: Visitor 1 finally takes book number 7 for 14 days
+DAY 11: Visitor 5 finally takes book number 7 for 14 days
+DAY 12: Visitor 2 returns book number 1
+DAY 12: Visitor 4 returns book number 1
+DAY 12: Visitor 11 returns book number 1
+DAY 12: Visitor 9 returns book number 1
+DAY 12: Visitor 6 returns book number 1
+DAY 12: Visitor 5 returns book number 1
+DAY 12: Visitor 8 returns book number 1
+DAY 12: Visitor 10 returns book number 1
+DAY 12: Visitor 1 returns book number 1
+DAY 12: Visitor 0 returns book number 1
+DAY 12: Visitor 7 returns book number 1
+DAY 12: Visitor 3 returns book number 1
+DAY 17: Visitor 8 wants to take book 5
+DAY 17: Visitor 10 wants to take book 5
+DAY 17: Visitor 5 wants to take book 5
+DAY 17: Visitor 1 wants to take book 5
+DAY 17: Visitor 8 takes book number 5 for 8 days
+DAY 17: Visitor 8 wants to take book 6
+DAY 17: Visitor 10 takes book number 5 for 8 days
+DAY 17: Visitor 10 wants to take book 6
+DAY 17: Visitor 5 takes book number 5 for 8 days
+DAY 17: Visitor 5 wants to take book 6
+DAY 17: Visitor 1 takes book number 5 for 8 days
+DAY 17: Visitor 1 wants to take book 6
+DAY 17: Visitor 8 takes book number 6 for 14 days
+DAY 17: Visitor 10 takes book number 6 for 14 days
+DAY 17: Visitor 5 takes book number 6 for 14 days
+DAY 17: Visitor 1 takes book number 6 for 14 days
+DAY 18: Visitor 7 wants to take book 5
+DAY 18: Visitor 9 wants to take book 5
+DAY 18: Visitor 6 wants to take book 5
+DAY 18: Visitor 2 wants to take book 5
+DAY 18: Visitor 4 wants to take book 5
+DAY 18: Visitor 0 wants to take book 5
+DAY 18: Visitor 3 wants to take book 5
+DAY 18: Visitor 11 wants to take book 5
+DAY 18: Visitor 7 takes book number 5 for 8 days
+DAY 18: Visitor 7 wants to take book 6
+DAY 18: Visitor 9 takes book number 5 for 8 days
+DAY 18: Visitor 9 wants to take book 6
+DAY 18: Visitor 6 takes book number 5 for 8 days
+DAY 18: Visitor 6 wants to take book 6
+DAY 18: Visitor 2 takes book number 5 for 8 days
+DAY 18: Visitor 2 wants to take book 6
+DAY 18: Visitor 4 takes book number 5 for 8 days
+DAY 18: Visitor 4 wants to take book 6
+DAY 18: Visitor 0 takes book number 5 for 8 days
+DAY 18: Visitor 0 wants to take book 6
+DAY 18: Visitor 3 takes book number 5 for 8 days
+DAY 18: Visitor 3 wants to take book 6
+DAY 18: Visitor 11 takes book number 5 for 8 days
+DAY 18: Visitor 11 wants to take book 6
+DAY 18: Visitor 7 takes book number 6 for 14 days
+DAY 18: Visitor 9 takes book number 6 for 14 days
+DAY 18: Visitor 6 takes book number 6 for 14 days
+DAY 18: Visitor 2 takes book number 6 for 14 days
+DAY 18: Visitor 4 takes book number 6 for 14 days
+DAY 18: Visitor 0 takes book number 6 for 14 days
+DAY 18: Visitor 3 takes book number 6 for 14 days
+DAY 18: Visitor 11 takes book number 6 for 14 days
+DAY 24: Visitor 1 wants to take book 13
+DAY 24: Visitor 8 wants to take book 7
+DAY 24: Visitor 5 wants to take book 13
+DAY 24: Visitor 10 wants to take book 7
+DAY 24: Visitor 1 takes book number 13 for 11 days
+DAY 24: Visitor 1 wants to take book 17
+DAY 24: Visitor 8 cant take book 7 and have to wait
+DAY 24: Visitor 8 wants to take book 13
+DAY 24: Visitor 5 takes book number 13 for 11 days
+DAY 24: Visitor 5 wants to take book 17
+DAY 24: Visitor 10 cant take book 7 and have to wait
+DAY 24: Visitor 10 wants to take book 13
+DAY 24: Visitor 1 takes book number 17 for 14 days
+DAY 24: Visitor 8 takes book number 13 for 11 days
+DAY 24: Visitor 8 wants to take book 17
+DAY 24: Visitor 5 takes book number 17 for 14 days
+DAY 24: Visitor 10 takes book number 13 for 11 days
+DAY 24: Visitor 10 wants to take book 17
+DAY 24: Visitor 8 takes book number 17 for 14 days
+DAY 24: Visitor 10 takes book number 17 for 14 days
+DAY 25: Visitor 5 returns book number 5
+DAY 25: Visitor 10 returns book number 5
+DAY 25: Visitor 1 returns book number 5
+DAY 25: Visitor 8 returns book number 5
+DAY 25: Visitor 9 wants to take book 7
+DAY 25: Visitor 2 wants to take book 7
+DAY 25: Visitor 4 wants to take book 7
+DAY 25: Visitor 0 wants to take book 7
+DAY 25: Visitor 0 wants to take book 13
+DAY 25: Visitor 3 wants to take book 7
+DAY 25: Visitor 11 wants to take book 7
+DAY 25: Visitor 7 wants to take book 7
+DAY 25: Visitor 5 returns book number 7
+DAY 25: Visitor 1 returns book number 7
+DAY 25: Visitor 9 wants to take book 13
+DAY 25: Visitor 2 wants to take book 13
+DAY 25: Visitor 4 wants to take book 13
+DAY 25: Visitor 6 wants to take book 7
+DAY 25: Visitor 0 takes book number 13 for 11 days
+DAY 25: Visitor 0 wants to take book 17
+DAY 25: Visitor 3 takes book number 7 for 11 days
+DAY 25: Visitor 3 wants to take book 13
+DAY 25: Visitor 11 takes book number 7 for 11 days
+DAY 25: Visitor 11 wants to take book 13
+DAY 25: Visitor 7 wants to take book 13
+DAY 25: Visitor 9 takes book number 13 for 11 days
+DAY 25: Visitor 9 wants to take book 17
+DAY 25: Visitor 2 takes book number 13 for 11 days
+DAY 25: Visitor 2 wants to take book 17
+DAY 25: Visitor 4 takes book number 13 for 11 days
+DAY 25: Visitor 4 wants to take book 17
+DAY 25: Visitor 6 wants to take book 13
+DAY 25: Visitor 0 takes book number 17 for 14 days
+DAY 25: Visitor 3 takes book number 13 for 14 days
+DAY 25: Visitor 3 wants to take book 17
+DAY 25: Visitor 11 takes book number 13 for 14 days
+DAY 25: Visitor 11 wants to take book 17
+DAY 25: Visitor 7 takes book number 13 for 11 days
+DAY 25: Visitor 7 wants to take book 17
+DAY 25: Visitor 9 takes book number 17 for 14 days
+DAY 25: Visitor 2 takes book number 17 for 14 days
+DAY 25: Visitor 4 takes book number 17 for 14 days
+DAY 25: Visitor 6 takes book number 13 for 11 days
+DAY 25: Visitor 6 wants to take book 17
+DAY 25: Visitor 3 takes book number 17 for 8 days
+DAY 25: Visitor 11 takes book number 17 for 8 days
+DAY 25: Visitor 7 takes book number 17 for 14 days
+DAY 25: Visitor 6 takes book number 17 for 14 days
+DAY 26: Visitor 11 returns book number 5
+DAY 26: Visitor 6 returns book number 5
+DAY 26: Visitor 4 returns book number 5
+DAY 26: Visitor 2 returns book number 5
+DAY 26: Visitor 7 returns book number 5
+DAY 26: Visitor 0 returns book number 5
+DAY 26: Visitor 9 returns book number 5
+DAY 26: Visitor 3 returns book number 5
+DAY 27: Visitor 3 wants to take book 4
+DAY 27: Visitor 1 wants to take book 4
+DAY 27: Visitor 8 wants to take book 4
+DAY 27: Visitor 11 wants to take book 4
+DAY 27: Visitor 10 wants to take book 4
+DAY 27: Visitor 5 wants to take book 4
+DAY 27: Visitor 3 takes book number 4 for 5 days
+DAY 27: Visitor 1 takes book number 4 for 5 days
+DAY 27: Visitor 8 takes book number 4 for 5 days
+DAY 27: Visitor 11 takes book number 4 for 5 days
+DAY 27: Visitor 10 takes book number 4 for 5 days
+DAY 27: Visitor 5 takes book number 4 for 5 days
+DAY 28: Visitor 1 wants to take book 14
+DAY 28: Visitor 10 wants to take book 14
+DAY 28: Visitor 5 wants to take book 14
+DAY 28: Visitor 8 wants to take book 14
+DAY 28: Visitor 11 wants to take book 14
+DAY 28: Visitor 6 wants to take book 4
+DAY 28: Visitor 9 wants to take book 4
+DAY 28: Visitor 0 wants to take book 4
+DAY 28: Visitor 3 wants to take book 14
+DAY 28: Visitor 2 wants to take book 4
+DAY 28: Visitor 7 wants to take book 4
+DAY 28: Visitor 4 wants to take book 4
+DAY 28: Visitor 1 takes book number 14 for 14 days
+DAY 28: Visitor 10 takes book number 14 for 14 days
+DAY 28: Visitor 5 cant take book 14 and have to wait
+DAY 28: Visitor 8 cant take book 14 and have to wait
+DAY 28: Visitor 11 cant take book 14 and have to wait
+DAY 28: Visitor 6 takes book number 4 for 5 days
+DAY 28: Visitor 9 takes book number 4 for 5 days
+DAY 28: Visitor 0 takes book number 4 for 5 days
+DAY 28: Visitor 3 cant take book 14 and have to wait
+DAY 28: Visitor 2 takes book number 4 for 5 days
+DAY 28: Visitor 7 takes book number 4 for 5 days
+DAY 28: Visitor 4 takes book number 4 for 5 days
+DAY 29: Visitor 4 wants to take book 14
+DAY 29: Visitor 2 wants to take book 14
+DAY 29: Visitor 9 wants to take book 14
+DAY 29: Visitor 7 wants to take book 14
+DAY 29: Visitor 0 wants to take book 14
+DAY 29: Visitor 6 wants to take book 14
+DAY 29: Visitor 4 cant take book 14 and have to wait
+DAY 29: Visitor 2 cant take book 14 and have to wait
+DAY 29: Visitor 9 cant take book 14 and have to wait
+DAY 29: Visitor 7 cant take book 14 and have to wait
+DAY 29: Visitor 0 cant take book 14 and have to wait
+DAY 29: Visitor 6 cant take book 14 and have to wait
