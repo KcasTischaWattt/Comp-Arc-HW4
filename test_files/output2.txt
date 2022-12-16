@@ -1,0 +1,9 @@
+Day 2: Visitor 0 wants to take book 0
+Day 2: Visitor 0 takes book number 0 for 10 days
+Day 12: Visitor 0 returns book number 0
+Day 18: Visitor 0 wants to take book 0
+Day 18: Visitor 0 takes book number 0 for 8 days
+Day 26: Visitor 0 returns book number 0
+Day 26: Visitor 0 wants to take book 0
+Day 26: Visitor 0 takes book number 0 for 11 days
+Day 30: The end of the month
